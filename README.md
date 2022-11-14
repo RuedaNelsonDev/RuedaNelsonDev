@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelson Rueda</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
+<h3 align="center">A Systems Engineering student, JAVA and C language developer, android applications, Rest APIs consumption, and ISO 8583 messaging knowledge.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
