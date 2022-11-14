@@ -8,8 +8,8 @@
 </p>
   <br/>
   <p align="center">
-    <a href="#"><img alt="Camilo Valencia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ValenciaJCamilo&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
-  <a href="#"><img alt="Camilo Valencia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenciaJCamilo&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img alt="Nelson Rueda's Github Stats" src="https://github-readme-stats.vercel.app/api?usernameRuedaNelsonDev&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#"><img alt="Nelson Rueda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuedaNelsonDev&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <p class="note">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
