@@ -13,7 +13,7 @@
   
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I'm a Systems Engineering student.
+- 👨‍🎓 I am a 6th semester student of systems engineering.
 - 💚 I am a **[Platzinauta](https://platzi.com/p/NelRueda/)**. 
 - 🌱 I am currently learning **[Mobile development with Kotlin ]**.
 - 👨‍💻 I am in the process of creating my **portfolio**.  
