@@ -13,9 +13,9 @@
   
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I am a 6th semester student of systems engineering.
+- 👨‍🎓 I am a 9th semester student of systems engineering.
 - 💚 I am a **[Platzinauta](https://platzi.com/p/NelRueda/)**. 
-- 🌱 I am currently learning **[Mobile development with Kotlin ]**.
+- 🌱 I am currently learning **[Back development with Springboot ]**.
 - 👨‍💻 I am in the process of creating my **portfolio**.  
 - 🕹️ I like playing video games, especially RPGs.
 - 📫 You can send me an email to **nelsonruedadev@gmail.com**
